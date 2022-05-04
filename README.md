@@ -1,19 +1,70 @@
-### Hi there 👋
+<img align="right" height="590em" 
+     src="https://raw.githubusercontent.com/gist/viktor-lima/946612f5edd7dca0618ad0327df3035f/raw/04d2ce6ddd87d503b951c29ea706f2e443b80d84/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Viktor Lima</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viktor-lima&color=yellow" alt="Profile views" /> </p>
 
-[![linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-viktor-lima-61aa45212/)
-[![intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viktor_llima/)
-[![HERKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+- 🔥 Backend Developer and passionate about programming
+- ⚡ Fun fact **Oneye 😜**
 
-![Viktor-Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=viktor-lima&show_icons=true&theme=dark)
+<br>
 
-### Tecnologias 
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+
+<a href="https://www.linkedin.com/in/joão-viktor-lima-61aa45212" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-viktorLima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/viktor_llima" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-viktorLima-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+</p>
+
+<br>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+## 🛠 &nbsp;Tech Stack
+
+![JAVA](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
+![springBoot](https://img.shields.io/badge/-springBoot-05122A?style=flat&logo=spring-boot)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=viktor-lima&show_icons=true&theme=vision-friendly-dark" alt="viktor's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-lima&layout=compact&theme=vision-friendly-dark" alt="viktor's most languages"/>
+</p>
+
+<br><br>
+
+
+
+
+<!--
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+-->
+
+<!--
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
