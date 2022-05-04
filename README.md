@@ -3,14 +3,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Viktor Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktor-lima&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Backend Developer and passionate about programming
-- ⚡ Fun fact **Oneye 😜**
-
-<br>
-
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
 <p align="left" style="background:yellow">
 
 <a href="https://www.linkedin.com/in/joão-viktor-lima-61aa45212" target="_blank">
@@ -19,11 +11,16 @@
 <a href="https://www.instagram.com/viktor_llima" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-viktorLima-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<br><br>
 
 </p>
 
+- 🔥 Backend Developer and passionate about programming
+- ⚡ Fun fact **Oneye 😜**
+
 <br>
 <br>
+
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -50,6 +47,9 @@
 <br><br>
 
 <!--
+## 👨🏽‍🦲 &nbsp;Social Links
+
+
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 -->
 
