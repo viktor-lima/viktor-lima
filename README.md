@@ -6,6 +6,7 @@
 - 🔥 Backend Developer and passionate about programming
 - ⚡ Fun fact **Oneye 😜**
 
+<br>
 
 
 ## 👨🏽‍🦲 &nbsp;Social Links
@@ -21,6 +22,7 @@
 
 </p>
 
+<br>
 <br>
 
 
@@ -46,9 +48,6 @@
 </p>
 
 <br><br>
-
-
-
 
 <!--
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
