@@ -11,14 +11,14 @@
 <a href="https://www.instagram.com/viktor_llima" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-viktorLima-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<br><br>
-<br><br>
+<br>
 
 </p>
 
 - 🔥 Backend Developer and passionate about programming
 - ⚡ Fun fact **Oneye 😜**
 
+<br>
 <br>
 <br>
 
