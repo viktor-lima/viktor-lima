@@ -6,7 +6,7 @@
 - 🔥 Backend Developer and passionate about programming
 - ⚡ Fun fact **Oneye 😜**
 
-<br>
+
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
