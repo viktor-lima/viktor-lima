@@ -1,5 +1,7 @@
+<!--
 <img align="right" height="590em" 
      src="https://raw.githubusercontent.com/gist/viktor-lima/ddf2ddeec887484b8b049731aa99e628/raw/0ec98a3af43adbc739b1bcbabfe5eae3c723f6ce/card.svg"/>
+-->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Viktor Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktor-lima&color=yellow" alt="Profile views" /> </p>
 
@@ -37,8 +39,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
-<br><br>
-<br><br>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
