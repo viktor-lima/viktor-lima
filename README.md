@@ -21,10 +21,6 @@
 - ⚡ Fun fact **Oneye 😜**
 
 <br>
-<br>
-<br>
-
-
 
 ## 🛠 &nbsp;Tech Stack
 
