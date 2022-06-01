@@ -1,8 +1,9 @@
 <!--
 <img align="right" height="590em" 
      src="https://raw.githubusercontent.com/gist/viktor-lima/ddf2ddeec887484b8b049731aa99e628/raw/0ec98a3af43adbc739b1bcbabfe5eae3c723f6ce/card.svg"/>
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="-20px">
 -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Viktor Lima</h1>
+<h1 align="left">Hi , I'm Viktor Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktor-lima&color=yellow" alt="Profile views" /> </p>
 
 <p align="left" style="background:yellow">
