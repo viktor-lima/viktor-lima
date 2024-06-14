@@ -36,7 +36,7 @@
 
 <br>
 
-
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -46,7 +46,7 @@
 
 <br><br>
 
-<!--
+
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 
