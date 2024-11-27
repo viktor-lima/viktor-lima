@@ -18,7 +18,7 @@
 
 </p>
 
-- 🔥 Backend Developer and passionate about programming
+- 🔥 Fullstack Developer and passionate about programming
 - ⚡ Fun fact **Oneye 😜**
 
 <br>
